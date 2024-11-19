@@ -12,7 +12,7 @@ Supermart Grocery Sales - Retail Dashboard  Tracking sales performance, customer
 5. Finalize with formatting, filters, and testing to ensure accuracy and functionality.
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/d02d34c6-0b50-4a03-b9ef-c33e352042a5)
-![image](https://github.com/user-attachments/assets/0ec82ae2-4d83-4ebd-beb0-885f8c566bf4)
+![image](https://github.com/user-attachments/assets/e7509b94-7a2f-4256-9bcf-783fb2869b46)
 ## Project Insights
 1. Aggressive expansion drives sales growth.
 2. Focus on East, West, and growing Central and South regions.
