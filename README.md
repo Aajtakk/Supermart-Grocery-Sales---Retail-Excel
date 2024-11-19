@@ -11,7 +11,7 @@ Supermart Grocery Sales - Retail Dashboard  Tracking sales performance, customer
 4. Define and display Key Performance Indicators (KPIs) using gauges, conditional formatting, and formulas.
 5. Finalize with formatting, filters, and testing to ensure accuracy and functionality.
 ## Dashboard
-![image](https://github.com/user-attachments/assets/ac2da3ba-21be-449c-bfc6-b8e7b09cbd2b)
+![image](https://github.com/user-attachments/assets/d02d34c6-0b50-4a03-b9ef-c33e352042a5)
 ![image](https://github.com/user-attachments/assets/0ec82ae2-4d83-4ebd-beb0-885f8c566bf4)
 ## Project Insights
 1. Aggressive expansion drives sales growth.
@@ -20,7 +20,7 @@ Supermart Grocery Sales - Retail Dashboard  Tracking sales performance, customer
 4. Optimize for holiday seasons (Sep-Dec) and summer sales.
 5. Efficient operations boost profits.
 ## Recommendations
-Invest in marketing and customer engagement.
+1. Invest in marketing and customer engagement.
 2. Optimize operations and inventory.
 3. Develop loyalty programs.
 4. Gather customer feedback.
