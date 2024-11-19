@@ -5,20 +5,25 @@ Supermart Grocery Sales - Retail Dashboard  Tracking sales performance, customer
 # Dataset Used
 - <a href="https://github.com/Aajtakk/Supermart-Grocery-Sales---Retail-Excel">Dataset</a>
 ## Process
-1. Data Collection: Gathered sales data from Vrinda Store's database into Excel.
-2. Data Analysis: Used PivotTables, filters, and sorting to analyze sales trends and patterns.
-3. Data Visualization: Created charts and graphs to illustrate key findings.
-4. Insight Generation: Utilized Excel's analytical functions to identify areas for growth and inform 2023-2024 sales strategies.
+1. Collect and organize sales data into Excel, using pivot tables for summarization.
+2. Design the dashboard layout, using Excel templates or custom design.
+3. Add visualizations: charts (bar, line, pie), tables, and maps to display sales trends and regional data.
+4. Define and display Key Performance Indicators (KPIs) using gauges, conditional formatting, and formulas.
+5. Finalize with formatting, filters, and testing to ensure accuracy and functionality.
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/ac2da3ba-21be-449c-bfc6-b8e7b09cbd2b)
 ![image](https://github.com/user-attachments/assets/0ec82ae2-4d83-4ebd-beb0-885f8c566bf4)
 ## Project Insights
-1. Women are more likely to buy compared to men (~65%)
-2. Maharashtra,Karnataka and Uttar Pradesh are the top 3 states (~35%)
-3. Adult age group (30-49 yrs) is max contributing (~50%)
-4. Amazon,Flipkart and Myntra channels are max contributing (~80%)
- 
-## Final Conclusion to improve Vrinda store sales:
-Target women customers of age group (30-49 yrs) lives in maharashtra,Karnataka and Uttar pradesh by short/ads/offers/coupons available on Amazon,Flipkart and Myntra.
+1. Aggressive expansion drives sales growth.
+2. Focus on East, West, and growing Central and South regions.
+3. Retain high-value customers through loyalty programs.
+4. Optimize for holiday seasons (Sep-Dec) and summer sales.
+5. Efficient operations boost profits.
+## Recommendations
+Invest in marketing and customer engagement.
+2. Optimize operations and inventory.
+3. Develop loyalty programs.
+4. Gather customer feedback.
+5. Explore strategic partnerships.
 
 
