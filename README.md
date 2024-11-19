@@ -3,7 +3,7 @@
 ## Project Overview
 Supermart Grocery Sales - Retail Dashboard  Tracking sales performance, customer insights, and regional trends for optimized marketing strategies and operational efficiency.
 # Dataset Used
-- <a href="[https://github.com/Aajtakk/DataExplorer/blob/main/Vrinda%20Store%20Data%20Analysis-Excel.xlsx](https://github.com/Aajtakk/Supermart-Grocery-Sales---Retail-Excel)">Dataset</a>
+- <a href="https://github.com/Aajtakk/Supermart-Grocery-Sales---Retail-Excel">Dataset</a>
 ## Process
 1. Data Collection: Gathered sales data from Vrinda Store's database into Excel.
 2. Data Analysis: Used PivotTables, filters, and sorting to analyze sales trends and patterns.
